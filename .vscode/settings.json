@@ -45,5 +45,7 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp"
-    }
+    },
+    "typescript.tsc.autoDetect": "off",
+    "files.autoSave": "afterDelay"
 }
