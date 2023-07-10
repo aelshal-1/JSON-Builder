@@ -1,3 +1,0 @@
-D:/Projects/C++/JSON-Builder/build/CMakeFiles/Builder.dir
-D:/Projects/C++/JSON-Builder/build/CMakeFiles/edit_cache.dir
-D:/Projects/C++/JSON-Builder/build/CMakeFiles/rebuild_cache.dir
