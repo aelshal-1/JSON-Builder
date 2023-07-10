@@ -1,4 +1,17 @@
+# JSON Builder
 
+JSON Builder is an open Source C++ Project that help Developers to Create JSON Request.
+
+## Features
+* Create JSON Element
+* Create JSON Objects and nested Objects
+* Create JSON Arrays
+
+
+## How To Use
+
+
+```C++
 #include  "JsonIncludes.h"
 
 #include  <iostream>
