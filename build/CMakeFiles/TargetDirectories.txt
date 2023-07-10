@@ -1,0 +1,3 @@
+D:/Projects/C++/JsonBuilder/build/CMakeFiles/Builder.dir
+D:/Projects/C++/JsonBuilder/build/CMakeFiles/edit_cache.dir
+D:/Projects/C++/JsonBuilder/build/CMakeFiles/rebuild_cache.dir
